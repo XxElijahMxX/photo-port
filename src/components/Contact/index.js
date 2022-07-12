@@ -31,7 +31,6 @@ function ContactForm() {
         setErrorMessage('');
       }
     }
-    console.log('errorMessage', errorMessage);
   };
 
   return (
